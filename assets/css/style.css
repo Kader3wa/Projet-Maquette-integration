@@ -105,6 +105,10 @@ section {
     width: 100%;
 }
 
+section h1 {
+    font-size: 22px;
+}
+
 section .section-subtitle {
     font-size: 20px;
     letter-spacing: 2px;
@@ -130,10 +134,6 @@ section .section-p {
     position: relative;
     overflow: hidden;
     transition: all 0.3s ease-in-out;
-}
-
-.feature-item p {
-    font-size: 22px;
 }
 
 .feature-item img {
