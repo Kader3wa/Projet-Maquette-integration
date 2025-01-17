@@ -132,6 +132,10 @@ section .section-p {
     transition: all 0.3s ease-in-out;
 }
 
+.feature-item p {
+    font-size: 22px;
+}
+
 .feature-item img {
     width: 100%;
     height: -webkit-fill-available;
